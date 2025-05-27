@@ -45,6 +45,10 @@ body{
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
     background: linear-gradient(90deg, #ffa500 0%, #ffd447 100%);
     opacity: 0.8;
+    transition: 0.2s;
+}
+.button:hover{
+    color: white;
 }
 .heading{
     font-weight: 800;
